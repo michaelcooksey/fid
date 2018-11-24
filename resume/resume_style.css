@@ -1,0 +1,42 @@
+h1   { 
+		text-align: center;
+		font-family: 'Black Han Sans', sans-serif;
+		font-weight: normal;
+		text-transform: uppercase;
+		border-bottom: 3px solid #003300;
+		margin-top: 30px;
+	  }
+	  
+h2    { 
+		color: #003300;
+		font-size: 1.5em;
+	  }
+	  
+body { 
+		background-color:#99ffcc;
+		margin:0 15%;
+		font-family:sans-serif;
+     }
+	 
+section  { 
+		border: 25px solid;
+		margin-right: 250px;
+		background-color:#003300;
+}
+
+img   {
+		padding: 3px;
+}
+
+a:visited {
+    color: #003300;
+}
+
+a:hover {
+    color: #996633;
+}
+
+li {
+		color: #000000;
+		
+}
